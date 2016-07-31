@@ -12,3 +12,4 @@ suma=num1+num2;
 Console.WriteLine("la suma es:{0}",suma);
 }
 }
+
